@@ -53,7 +53,7 @@ cd Jenkins_Repo
 - Trigger the build manually OR
 - Configure GitHub webhook for auto-builds on code pushes.
 
-5. **🛠️ Troubleshooting**
+5. **Troubleshooting**
 
 - **Jenkins can't find Maven**: Ensure Maven is installed and configured in Jenkins under `Global Tool Configuration`.
 - **Build fails due to missing JDK**: Make sure JDK is installed and added in Jenkins configuration.
